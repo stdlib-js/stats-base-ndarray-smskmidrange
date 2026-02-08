@@ -52,7 +52,7 @@ The [**mid-range**][mid-range], or **mid-extreme**, is the arithmetic mean of th
 To use in Observable,
 
 ```javascript
-smskmidrange = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmidrange@umd/browser.js' )
+smskmidrange = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmidrange@v0.1.1-umd/browser.js' )
 ```
 
 To vendor stdlib functionality and avoid installing dependency trees for Node.js, you can use the UMD server build:
@@ -64,7 +64,7 @@ var smskmidrange = require( 'path/to/vendor/umd/stats-base-ndarray-smskmidrange/
 To include the bundle in a webpage,
 
 ```html
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmidrange@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmidrange@v0.1.1-umd/browser.js"></script>
 ```
 
 If no recognized module system is present, access bundle contents via the global scope:
@@ -129,7 +129,7 @@ The function has the following parameters:
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/random-array-bernoulli@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-ctor@umd/browser.js"></script>
 <script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@umd/browser.js"></script>
-<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmidrange@umd/browser.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-ndarray-smskmidrange@v0.1.1-umd/browser.js"></script>
 <script type="text/javascript">
 (function () {
 
